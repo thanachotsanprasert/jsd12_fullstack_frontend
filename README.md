@@ -1,7 +1,5 @@
 # JSD12 Week12 | Full Stack App (Frontend)
 
-Backend Repo: https://github.com/weerayosong/jsd12-full-stack-app-be (Branch: phase-05_error-handling)
-
 ![crud dashboard that use routes and resources from my api server and db](public/ss2.png)
 
 # API Testing Playground
